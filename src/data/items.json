@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Churu",
+        "price": 16.99,
+        "imgURL": "/imgs/churu.webp"
+    },
+    {
+        "id": 2,
+        "name": "Litter",
+        "price": 20.99,
+        "imgURL": "/imgs/litter.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Fish Toy",
+        "price": 9.99,
+        "imgURL": "/imgs/fish.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Wet Food",
+        "price": 23.99,
+        "imgURL": "/imgs/food.jpg"
+    }
+]
